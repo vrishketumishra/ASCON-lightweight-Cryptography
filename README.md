@@ -67,6 +67,5 @@ This application can be hosted on any static web server, including:
 4. Click "Encrypt Image" to encrypt or "Decrypt Image" to decrypt
 5. Download the result using the "Download Result" button
 
-## License
-
-This project is open source and available under the MIT License.
+##Working Link
+https://vrishketumishra.github.io/ASCON-lightweight-Cryptography/
